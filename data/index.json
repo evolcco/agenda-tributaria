@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-04-25T01:36:58.187828+00:00",
+  "generated_at": "2026-04-25T23:31:38.183184+00:00",
   "months": [
+    {
+      "file": "agenda-2026-04.json",
+      "ics_file": "agenda-2026-04.ics",
+      "year": 2026,
+      "month": 4,
+      "label": "Abril/2026",
+      "payload_generated_at": "2026-04-25T23:31:36.371018+00:00",
+      "agenda_year": 2026,
+      "agenda_month": 4,
+      "agenda_label": "Abril/2026",
+      "competence_year": 2026,
+      "competence_month": 3,
+      "competence_label": "Março/2026",
+      "counts": {
+        "tributos": 304,
+        "declaracoes": 8,
+        "adjusted": 0
+      },
+      "schema_version": "1.1.0",
+      "source_monthly_page_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/abril",
+      "source_xlsx_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/abril/anexo-ade-corat-no-11-de-26-03-26.xlsx"
+    },
     {
       "file": "agenda-2026-03.json",
       "ics_file": "agenda-2026-03.ics",
