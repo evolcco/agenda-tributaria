@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-04-25T01:36:58.187828+00:00",
+  "months": [
+    {
+      "file": "agenda-2026-03.json",
+      "ics_file": "agenda-2026-03.ics",
+      "year": 2026,
+      "month": 3,
+      "label": "Março/2026",
+      "payload_generated_at": "2026-03-06T19:05:31.951172+00:00",
+      "agenda_year": 2026,
+      "agenda_month": 3,
+      "agenda_label": "Março/2026",
+      "competence_year": 2026,
+      "competence_month": 2,
+      "competence_label": "Fevereiro/2026",
+      "counts": {
+        "tributos": 300,
+        "declaracoes": 10,
+        "adjusted": 0
+      },
+      "schema_version": "1.1.0",
+      "source_monthly_page_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/marco",
+      "source_xlsx_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/marco/anexo-ade-corat-no-5-de-23-02-26.xlsx"
+    },
+    {
+      "file": "agenda-2026-02.json",
+      "ics_file": "agenda-2026-02.ics",
+      "year": 2026,
+      "month": 2,
+      "label": "Fevereiro/2026",
+      "payload_generated_at": "2026-03-06T19:16:25.737434+00:00",
+      "agenda_year": 2026,
+      "agenda_month": 2,
+      "agenda_label": "Fevereiro/2026",
+      "competence_year": 2026,
+      "competence_month": 1,
+      "competence_label": "Janeiro/2026",
+      "counts": {
+        "tributos": 295,
+        "declaracoes": 15,
+        "adjusted": 0
+      },
+      "schema_version": "1.1.0",
+      "source_monthly_page_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/fevereiro",
+      "source_xlsx_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/fevereiro/anexo-ade-corat-no-2-de-27-01-26.xlsx"
+    },
+    {
+      "file": "agenda-2026-01.json",
+      "ics_file": "agenda-2026-01.ics",
+      "year": 2026,
+      "month": 1,
+      "label": "Janeiro/2026",
+      "payload_generated_at": "2026-03-06T19:09:41.512547+00:00",
+      "agenda_year": 2026,
+      "agenda_month": 1,
+      "agenda_label": "Janeiro/2026",
+      "competence_year": 2025,
+      "competence_month": 12,
+      "competence_label": "Dezembro/2025",
+      "counts": {
+        "tributos": 303,
+        "declaracoes": 10,
+        "adjusted": 0
+      },
+      "schema_version": "1.1.0",
+      "source_monthly_page_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/janeiro",
+      "source_xlsx_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/janeiro/anexo-ade-corat-no-33-de-23-12-25.xlsx"
+    }
+  ]
+}

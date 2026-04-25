@@ -1,0 +1,107 @@
+name: Atualizar Agenda Tributária
+
+on:
+  schedule:
+    # Roda dia 1 e 15 às 12:00 UTC (09:00 BRT)
+    - cron: "0 12 1,15 * *"
+  workflow_dispatch:
+    inputs:
+      page_url:
+        description: "URL da página mensal (sobrescreve a auto-detecção)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Compute target months
+        id: months
+        run: |
+          python <<'PY' >> "$GITHUB_OUTPUT"
+          from datetime import date
+          MONTHS = ["janeiro","fevereiro","marco","abril","maio","junho",
+                   "julho","agosto","setembro","outubro","novembro","dezembro"]
+          today = date.today()
+          current = (today.year, today.month)
+          if today.month == 12:
+              nxt = (today.year + 1, 1)
+          else:
+              nxt = (today.year, today.month + 1)
+          urls = []
+          for y, m in (current, nxt):
+              urls.append(f"https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/{y}/{MONTHS[m-1]}")
+          print(f"urls={','.join(urls)}")
+          PY
+
+      - name: Run parser for each month
+        env:
+          OVERRIDE_URL: ${{ inputs.page_url }}
+          AUTO_URLS: ${{ steps.months.outputs.urls }}
+        run: |
+          set -e
+          if [ -n "$OVERRIDE_URL" ]; then
+            URLS="$OVERRIDE_URL"
+          else
+            URLS="$AUTO_URLS"
+          fi
+          IFS=',' read -ra ARR <<< "$URLS"
+          for url in "${ARR[@]}"; do
+            echo "::group::Processando $url"
+            python scripts/update_agenda_from_rfb_page.py --page-url "$url" || {
+              echo "::warning::Falha ao processar $url (provavelmente ainda não publicada)"
+            }
+            echo "::endgroup::"
+          done
+
+      - name: Generate ICS files
+        run: python scripts/generate_ics.py
+
+      - name: Rebuild data index
+        run: python scripts/build_data_index.py
+
+      - name: Detect changes
+        id: diff
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git status --short data/
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Sem alterações em data/"
+          fi
+
+      - name: Open pull request
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(data): atualiza agenda tributária"
+          title: "chore(data): atualização automática da agenda tributária"
+          body: |
+            Atualização automática gerada pelo workflow `update-agenda.yml`.
+
+            Diffs em `data/` incluem:
+            - JSONs reprocessados das planilhas oficiais
+            - Arquivos `.ics` regerados
+            - `index.json` atualizado
+
+            Disparado em: ${{ github.event_name }}
+          branch: chore/auto-update-agenda
+          delete-branch: true
+          add-paths: data/

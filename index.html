@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Agenda Tributária</title>
+    <link rel="stylesheet" href="/assets/main.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__overlay"></div>
+      <div class="hero__content">
+        <p class="hero__eyebrow">Receita Federal do Brasil</p>
+        <h1>Agenda Tributária</h1>
+        <p class="hero__subtitle">
+          Consulta mensal de tributos e declarações, com dados importados da planilha oficial.
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="panel controls">
+        <div class="controls__group">
+          <label for="month-select">Competência</label>
+          <select id="month-select"></select>
+        </div>
+
+        <div class="controls__group">
+          <label for="search-input">Busca</label>
+          <input id="search-input" type="text" placeholder="Ex.: IRRF, DCTFWeb, Simples" />
+        </div>
+
+        <div class="controls__group controls__group--view">
+          <span>Tipo</span>
+          <div class="segmented" role="tablist" aria-label="Tipo de agenda">
+            <button id="tab-tributos" class="segmented__button is-active" data-view="tributos">Tributos</button>
+            <button id="tab-declaracoes" class="segmented__button" data-view="declaracoes">Declarações</button>
+          </div>
+        </div>
+
+        <div class="controls__group controls__group--view">
+          <span>Visualização</span>
+          <div class="segmented" role="tablist" aria-label="Modo de visualização">
+            <button id="mode-list" class="segmented__button is-active" data-mode="list">Lista</button>
+            <button id="mode-calendar" class="segmented__button" data-mode="calendar">Calendário</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel summary" id="summary"></section>
+      <section class="panel">
+        <div id="source-links" class="source-links"></div>
+      </section>
+
+      <section class="panel calendar-panel is-hidden" id="calendar-panel">
+        <div id="calendar-header" class="calendar-header"></div>
+        <div id="calendar-grid" class="calendar-grid"></div>
+        <div id="calendar-daily" class="calendar-daily"></div>
+        <div id="calendar-details" class="calendar-details"></div>
+      </section>
+
+      <section class="panel table-panel" id="table-panel">
+        <div class="table-wrap">
+          <table>
+            <thead id="table-head"></thead>
+            <tbody id="table-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <template id="empty-state-template">
+      <tr>
+        <td colspan="8" class="empty-state">Nenhum item encontrado com os filtros atuais.</td>
+      </tr>
+    </template>
+
+    <script src="/assets/main.js" defer></script>
+  </body>
+</html>
