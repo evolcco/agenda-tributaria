@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "agenda-tributaria-parser"
 version = "0.2.0"
@@ -6,6 +10,10 @@ requires-python = ">=3.11"
 dependencies = [
     "openpyxl>=3.1.0",
 ]
+
+[tool.setuptools]
+# Scripts vivem em scripts/ e são importados via PYTHONPATH; não há package distribuível.
+py-modules = []
 
 [project.optional-dependencies]
 dev = [
