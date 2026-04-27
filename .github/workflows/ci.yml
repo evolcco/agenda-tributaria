@@ -30,3 +30,6 @@ jobs:
 
       - name: Tests (pytest)
         run: pytest -v
+
+      - name: Validate vencimento-guias JSONs
+        run: python scripts/validate_vencimento_guias.py vencimento-guias/

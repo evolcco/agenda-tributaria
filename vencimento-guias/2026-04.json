@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "year": 2026,
+  "month": 4,
+  "label": "Abril/2026",
+  "categories": [
+    {
+      "id": "municipal",
+      "label": "Impostos Municipais",
+      "icon": "city",
+      "color": "#9333ea",
+      "items": [
+        { "due_day": 5,  "title": "ISS", "cities": ["Rio de Janeiro"] },
+        { "due_day": 11, "title": "ISS", "cities": ["Barueri"] },
+        { "due_day": 11, "title": "ISS", "cities": ["São Paulo"] },
+        { "due_day": 15, "title": "ISS", "cities": ["Santa Bárbara d'Oeste", "São Bernardo", "Sorocaba", "Diadema", "Guarulhos", "Valinhos"] },
+        { "due_day": 20, "title": "ISS", "cities": ["Jacareí", "Mauá", "Santo André"] }
+      ]
+    },
+    {
+      "id": "estadual",
+      "label": "Impostos Estaduais",
+      "icon": "building",
+      "color": "#3669de",
+      "items": [
+        { "due_day": 20, "title": "ICMS" },
+        { "due_day": 20, "title": "ICMS ST" }
+      ]
+    },
+    {
+      "id": "federal",
+      "label": "Impostos Federais",
+      "icon": "landmark",
+      "color": "#15603c",
+      "items": [
+        { "due_day": 15, "title": "GPS", "subtitle": "contribuinte individual, facultativo e complementar" },
+        { "due_day": 20, "title": "FGTS", "subtitle": "competência 04/2026" },
+        { "due_day": 20, "title": "DARF INSS/IRRF" },
+        { "due_day": 20, "title": "DAS PCC" },
+        { "due_day": 20, "title": "INSS retido" },
+        { "due_day": 20, "title": "IRRF aluguel e serviços tomados" },
+        { "due_day": 25, "title": "IPI",    "note": "ajustado pois dia 24 cai em domingo" },
+        { "due_day": 25, "title": "COFINS", "note": "ajustado pois dia 24 cai em domingo" },
+        { "due_day": 25, "title": "PIS",    "note": "ajustado pois dia 24 cai em domingo" },
+        { "due_day": "last_business_day", "title": "IRPJ" },
+        { "due_day": "last_business_day", "title": "CSLL" },
+        { "due_day": "last_business_day", "title": "Parcelamentos federais e previdenciários" }
+      ]
+    }
+  ],
+  "footnotes": [
+    "ISS retido — confira o prazo do seu município.",
+    "Se não cair em dia útil, antecipar para o dia anterior."
+  ]
+}

@@ -135,6 +135,58 @@ gh workflow run pages.yml
 gh workflow run update-agenda.yml
 ```
 
+## Vencimento de Guias (curado manual)
+
+Calendário resumido por categoria (Municipal / Estadual / Federal) consumido pela
+página `/vencimento-de-guias` no contclaro-2026. Diferente do calendário detalhado
+da RFB (que é automático), este é **editado manualmente** todo mês.
+
+### Estrutura
+
+```
+vencimento-guias/
+  2026-04.json    # um arquivo por mês
+  2026-05.json
+```
+
+### Adicionar mês novo
+
+1. Copie o arquivo do mês anterior:
+   ```bash
+   cp vencimento-guias/2026-04.json vencimento-guias/2026-05.json
+   ```
+
+2. Edite o novo arquivo:
+   - Atualize `year`, `month`, `label`
+   - Revise os `items` por categoria conforme apuração do mês
+   - Atualize `footnotes` se necessário
+
+3. Valide localmente:
+   ```bash
+   python scripts/validate_vencimento_guias.py vencimento-guias/2026-05.json
+   ```
+
+4. Commit e push:
+   ```bash
+   git add vencimento-guias/2026-05.json
+   git commit -m "chore(vencimento-guias): adiciona maio/2026"
+   git push
+   ```
+
+5. O workflow `pages.yml` republica automaticamente em ~30s.
+   A página `/vencimento-de-guias` do contclaro-2026 atualiza em até 10 min (ISR).
+
+### Schema (resumo)
+
+- `due_day`: número (1–31) ou string `"last_business_day"`
+- `categories[].id`: `municipal` | `estadual` | `federal`
+- `categories[].icon`: `city` | `building` | `landmark`
+- `items[]`: `{ due_day, title, subtitle?, note?, cities? }`
+- `footnotes[]`: lista de strings (rodapé editorial)
+
+A validação completa está em [scripts/validate_vencimento_guias.py](scripts/validate_vencimento_guias.py).
+Este script roda no CI (`.github/workflows/ci.yml`) e barra qualquer JSON inválido.
+
 ## Regra de dia útil
 
 Implementada em [scripts/holidays.py](scripts/holidays.py):

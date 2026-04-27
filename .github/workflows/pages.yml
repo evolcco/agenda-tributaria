@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "data/**"
+      - "vencimento-guias/**"
       - "site/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
@@ -26,13 +27,17 @@ jobs:
 
       - name: Assemble Pages bundle
         run: |
-          mkdir -p _site/data
+          mkdir -p _site/data _site/vencimento-guias
           cp -r data/. _site/data/
+          if compgen -G "vencimento-guias/*.json" > /dev/null; then
+            cp -r vencimento-guias/. _site/vencimento-guias/
+          fi
           cp site/index.html _site/index.html
           # cabeçalho de cache razoável (GitHub Pages não permite custom headers,
           # mas ao copiar para _site garantimos que tudo é estático)
           ls -la _site/
           ls -la _site/data/ | head
+          ls -la _site/vencimento-guias/ 2>/dev/null || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
