@@ -39,6 +39,9 @@ jobs:
           ls -la _site/data/ | head
           ls -la _site/vencimento-guias/ 2>/dev/null || true
 
+      - name: Build vencimento-guias index
+        run: python scripts/build_vencimento_guias_index.py vencimento-guias _site/vencimento-guias/index.json
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
