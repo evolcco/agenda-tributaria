@@ -8,6 +8,11 @@ on:
       - "vencimento-guias/**"
       - "site/**"
       - ".github/workflows/pages.yml"
+  # Commits do update-agenda.yml usam GITHUB_TOKEN e não disparam o push acima.
+  workflow_run:
+    workflows: ["Atualizar Agenda Tributária"]
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -21,6 +26,7 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
