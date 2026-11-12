@@ -1,0 +1,4877 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//agenda-tributaria//PT-BR//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Agenda Tributária — Junho/2026
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+UID:T-0018-62d18a76195e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IOF (1150)
+DESCRIPTION:Operações de Crédito - Pessoa Jurídica\nPeríodo de apuraç
+ ão: 3º decêndio mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDo
+ cumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (1150)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0019-5117692e586f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IOF (7893)
+DESCRIPTION:Operações de Crédito - Pessoa Física\nPeríodo de apuraçã
+ o: 3º decêndio mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocu
+ mento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (7893)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0020-c9fb771c8b18@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IOF (4290)
+DESCRIPTION:Operações de Câmbio - Entrada de moeda\nPeríodo de apuraç
+ o: 3º decêndio mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDoc
+ umento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (4290)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0021-ece20a138797@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IOF (5220)
+DESCRIPTION:Operações de Câmbio - Saída de moeda\nPeríodo de apuraçã
+ o: 3º decêndio mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocu
+ mento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (5220)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0022-5bb4b9896679@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IOF (6854)
+DESCRIPTION:Aplicações Financeiras\nPeríodo de apuração: 3º decêndio
+  mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (6854)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0023-c068b846579a@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IOF (6895)
+DESCRIPTION:Factoring\nPeríodo de apuração: 3º decêndio mês anterior 
+ (31/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (6895)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0024-35fedde227cd@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IOF (3467)
+DESCRIPTION:Seguros\nPeríodo de apuração: 3º decêndio mês anterior (3
+ 1/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (3467)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0025-2380e004bd04@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IOF (4028)
+DESCRIPTION:Ouro\, Ativo Financeiro\nPeríodo de apuração: 3º decêndio 
+ mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (4028)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0026-d7e6611a3056@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (8053)
+DESCRIPTION:Rendimentos de Capital - Títulos de renda fixa - Pessoa Físic
+ a\nPeríodo de apuração: 3º decêndio mês anterior (31/05/2026)\nPeriod
+ icidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8053)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0027-c8a38a1839f8@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (3426)
+DESCRIPTION:Rendimentos de Capital - Títulos de renda fixa - Pessoa Juríd
+ ica\nPeríodo de apuração: 3º decêndio mês anterior (31/05/2026)\nPeri
+ odicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3426)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0028-d80b7d263c8f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (6800)
+DESCRIPTION:Rendimentos de Capital - Fundo de Investimento sujeito à tribu
+ tação periódica\nPeríodo de apuração: 3º decêndio mês anterior (31
+ /05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6800)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0029-f7d2303d4612@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (6813)
+DESCRIPTION:Rendimentos de Capital - Fundo de Investimento em Ações\nPer
+ odo de apuração: 3º decêndio mês anterior (31/05/2026)\nPeriodicidade
+ : Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6813)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0030-a7716bdd3aac@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (5273)
+DESCRIPTION:Rendimentos de Capital - Operações de swap\nPeríodo de apura
+ ção: 3º decêndio mês anterior (31/05/2026)\nPeriodicidade: Decendial\n
+ Documento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5273)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0031-f9084a8cdff4@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (8468)
+DESCRIPTION:Rendimentos de Capital - Day-Trade - Operações em Bolsas\nPer
+ íodo de apuração: 3º decêndio mês anterior (31/05/2026)\nPeriodicidad
+ e: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8468)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0032-4e15cf5f680d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (5557)
+DESCRIPTION:Rendimentos de Capital - Ganhos líquidos em operações em bol
+ sas e assemelhados\nPeríodo de apuração: 3º decêndio mês anterior (31
+ /05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5557)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0033-37cd41928455@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (5706)
+DESCRIPTION:Rendimentos de Capital - Juros remuneratórios do capital próp
+ rio\nPeríodo de apuração: 3º decêndio mês anterior (31/05/2026)\nPeri
+ odicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5706)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0034-0ded3310664a@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (5232)
+DESCRIPTION:Rendimentos de Capital - Fundos de Investimento Imobiliário (F
+ II) e Fundos de Investimento nas Cadeias Produtivas do Agronegócio (Fiagro
+ ) - Resgate ou amortização de cotas ou distribuição de rendimentos\nPer
+ íodo de apuração: 3º decêndio mês anterior (31/05/2026)\nPeriodicidad
+ e: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5232)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0035-cfd9e0ab6c1b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (924)
+DESCRIPTION:Rendimentos de Capital - Demais rendimentos de capital\nPeríod
+ o de apuração: 3º decêndio mês anterior (31/05/2026)\nPeriodicidade: D
+ ecendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (924)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0036-a1729d14b6ca@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (3699)
+DESCRIPTION:Rendimentos de Capital - Aplicações financeiras em ativos de 
+ infraestrutura - Tributação Exclusiva\nPeríodo de apuração: 3º decên
+ dio mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3699)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0037-d2535189dff0@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (5029)
+DESCRIPTION:Rendimentos de Capital - Ganho de Capital - Integralização de
+  Cotas com Ativos\nPeríodo de apuração: 3º decêndio mês anterior (31/
+ 05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5029)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0038-7f0fab68f5e4@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (5035)
+DESCRIPTION:Rendimentos de Capital - Fundos de Investimento\nPeríodo de ap
+ uração: 3º decêndio mês anterior (31/05/2026)\nPeriodicidade: Decendia
+ l\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5035)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0039-b72b61c5b252@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (1605)
+DESCRIPTION:Rendimentos de Capital - Fundo de Investimento em Participaçõ
+ es (FIP)\, Fundo de Investimento em Índice de Mercado (Exchange Traded Fun
+ d - ETF)\, Fundo de Investimento em Direitos Creditórios (FIDC) e Fundo Mu
+ ltimercado (FIM)\nPeríodo de apuração: 3º decêndio mês anterior (31/0
+ 5/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (1605)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0040-705568e8b30b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (5286)
+DESCRIPTION:Rendimentos de Residentes ou Domiciliados no Exterior - Aplica
+ ões Financeiras\nPeríodo de apuração: 3º decêndio mês anterior (31/
+ 05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5286)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0041-09e92108d37f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (9453)
+DESCRIPTION:Rendimentos de Residentes ou Domiciliados no Exterior - Juros r
+ emuneratórios de capital próprio\nPeríodo de apuração: 3º decêndio m
+ ês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (9453)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0042-2a3a25c28f92@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (916)
+DESCRIPTION:Outros Rendimentos - Prêmios obtidos em concursos e sorteios\n
+ Período de apuração: 3º decêndio mês anterior (31/05/2026)\nPeriodici
+ dade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (916)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0043-9139d227cb82@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (8673)
+DESCRIPTION:Outros Rendimentos - Prêmios obtidos em bingos\nPeríodo de ap
+ uração: 3º decêndio mês anterior (31/05/2026)\nPeriodicidade: Decendia
+ l\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8673)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0044-22a6df1721ea@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:IRRF (9385)
+DESCRIPTION:Outros Rendimentos - Multas e vantagens\nPeríodo de apuração
+ : 3º decêndio mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocum
+ ento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (9385)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0045-57df7bc11491@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:CPSS (1661)
+DESCRIPTION:CPSS - Servidor Civil Ativo\nPeríodo de apuração: 3º decên
+ dio mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1661)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0046-8588e61908ae@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:CPSS (1700)
+DESCRIPTION:CPSS - Servidor Civil Inativo\nPeríodo de apuração: 3º dec
+ ndio mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1700)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0047-8a0dd450ef5c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:CPSS (1717)
+DESCRIPTION:CPSS - Pensionista Civil\nPeríodo de apuração: 3º decêndio
+  mês anterior (31/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1717)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0048-222ffc4924ca@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:CPSS (1769)
+DESCRIPTION:CPSS - Patronal - Servidor Civil Ativo - Operação Intra-Orça
+ mentária\nPeríodo de apuração: 3º decêndio mês anterior (31/05/2026)
+ \nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1769)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0049-47bd1f47f422@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:CPSS (1814)
+DESCRIPTION:CPSS - Patronal - Servidor no Exterior - Operação Intra-Orça
+ mentária\nPeríodo de apuração: 3º decêndio mês anterior (31/05/2026)
+ \nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1814)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0050-c98481e01655@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:CPSS (1723)
+DESCRIPTION:CPSS - Servidor Civil Ativo - Precatório Judicial e Requisiç
+ o de Pequeno Valor\nPeríodo de apuração: 3º decêndio mês anterior (3
+ 1/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1723)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0051-1b2670c80956@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:CPSS (1730)
+DESCRIPTION:CPSS - Servidor Civil Inativo - Precatório Judicial e Requisi
+ ão de Pequeno Valor\nPeríodo de apuração: 3º decêndio mês anterior 
+ (31/05/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1730)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0052-808d1c6fd7b9@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:CPSS (1752)
+DESCRIPTION:CPSS - Pensionista - Precatório Judicial e Requisição de Peq
+ ueno Valor\nPeríodo de apuração: 3º decêndio mês anterior (31/05/2026
+ )\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1752)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0053-19464a032095@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:IPI (1020)
+DESCRIPTION:Cigarros Contendo Tabaco (Cigarros do código 2402.20.00 da Tip
+ i)\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mens
+ al\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IPI (1020)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0054-982c8236dd13@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:IRRF (5299)
+DESCRIPTION:Juros de empréstimos externos (Instituição autorizada a oper
+ ar no mercado de câmbio pelo Banco Central do Brasil)\nPeríodo de apuraç
+ ão: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5299)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0055-9bea0820ff3c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:IRRF (610)
+DESCRIPTION:Rendimentos Prestação Serviços Transporte Rodoviário Intern
+ acional de Carga\, Pagos Por PJ Domiciliada no País\, Auferidos por Transp
+ ortador Autônomo PF Residente no Paraguai\nPeríodo de apuração: Mês An
+ terior (31/05/2026)\nPeriodicidade: MENSAL\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (610)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0056-5fe2f5cea773@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (1150)
+DESCRIPTION:Operações de Crédito - Pessoa Jurídica\nPeríodo de apuraç
+ ão: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocum
+ ento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (1150)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0057-2e02acc0ff95@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (7893)
+DESCRIPTION:Operações de Crédito - Pessoa Física\nPeríodo de apuraçã
+ o: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocumen
+ to: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (7893)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0058-1535ea21c08d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (4290)
+DESCRIPTION:Operações de Câmbio - Entrada de moeda\nPeríodo de apuraç
+ o: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocume
+ nto: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (4290)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0059-b37fa78ccd14@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (5220)
+DESCRIPTION:Operações de Câmbio - Saída de moeda\nPeríodo de apuraçã
+ o: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocumen
+ to: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (5220)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0060-570d4449d40a@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (6854)
+DESCRIPTION:Aplicações Financeiras\nPeríodo de apuração: 1º decêndio
+  mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (6854)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0061-409143edae3e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (6895)
+DESCRIPTION:Factoring\nPeríodo de apuração: 1º decêndio mês atual (10
+ /06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (6895)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0062-714ff4667e3c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (3467)
+DESCRIPTION:Seguros\nPeríodo de apuração: 1º decêndio mês atual (10/0
+ 6/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (3467)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0063-5e9c06d041be@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (4028)
+DESCRIPTION:Ouro\, Ativo Financeiro\nPeríodo de apuração: 1º decêndio 
+ mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (4028)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0064-8fd4e56085c0@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (1150)
+DESCRIPTION:Operações de Crédito - Pessoa Jurídica\nPeríodo de apuraç
+ ão: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (1150)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0065-3d96a213d521@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IOF (7893)
+DESCRIPTION:Operações de Crédito - Pessoa Física\nPeríodo de apuraçã
+ o: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (7893)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0066-e45220f35734@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (8053)
+DESCRIPTION:Rendimentos de Capital - Títulos de renda fixa - Pessoa Físic
+ a\nPeríodo de apuração: 1º decêndio mês atual (10/06/2026)\nPeriodici
+ dade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8053)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0067-114f1155fbdc@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (3426)
+DESCRIPTION:Rendimentos de Capital - Títulos de renda fixa - Pessoa Juríd
+ ica\nPeríodo de apuração: 1º decêndio mês atual (10/06/2026)\nPeriodi
+ cidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3426)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0068-0f2a5ecc4d77@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (6800)
+DESCRIPTION:Rendimentos de Capital - Fundo de Investimento sujeito à tribu
+ tação periódica\nPeríodo de apuração: 1º decêndio mês atual (10/06
+ /2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6800)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0069-a88e6db5a19b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (6813)
+DESCRIPTION:Rendimentos de Capital - Fundo de Investimento em Ações\nPer
+ odo de apuração: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: D
+ ecendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6813)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0070-a1e5e74dea8d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (5273)
+DESCRIPTION:Rendimentos de Capital - Operações de swap\nPeríodo de apura
+ ção: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: Decendial\nDoc
+ umento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5273)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0071-6242c0bde6d9@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (8468)
+DESCRIPTION:Rendimentos de Capital - Day-Trade - Operações em Bolsas\nPer
+ íodo de apuração: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: 
+ Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8468)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0072-162063209ba1@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (5557)
+DESCRIPTION:Rendimentos de Capital - Ganhos líquidos em operações em bol
+ sas e assemelhados\nPeríodo de apuração: 1º decêndio mês atual (10/06
+ /2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5557)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0073-f3e79c79bf6f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (5706)
+DESCRIPTION:Rendimentos de Capital - Juros remuneratórios do capital próp
+ rio\nPeríodo de apuração: 1º decêndio mês atual (10/06/2026)\nPeriodi
+ cidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5706)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0074-c909372265f9@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (5232)
+DESCRIPTION:Rendimentos de Capital - Fundos de Investimento Imobiliário (F
+ II) e Fundos de Investimento nas Cadeias Produtivas do Agronegócio (Fiagro
+ ) - Resgate ou amortização de cotas ou distribuição de rendimentos\nPer
+ íodo de apuração: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: 
+ Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5232)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0075-d81cd5adb13d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (924)
+DESCRIPTION:Rendimentos de Capital - Demais rendimentos de capital\nPeríod
+ o de apuração: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: Dece
+ ndial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (924)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0076-a8787fab2e2f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (3699)
+DESCRIPTION:Rendimentos de Capital - Aplicações financeiras em ativos de 
+ infraestrutura - Tributação Exclusiva\nPeríodo de apuração: 1º decên
+ dio mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3699)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0077-24e9e3453d3b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (5029)
+DESCRIPTION:Rendimentos de Capital - Ganho de Capital - Integralização de
+  Cotas com Ativos\nPeríodo de apuração: 1º decêndio mês atual (10/06/
+ 2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5029)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0078-394baa90cb5d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (5035)
+DESCRIPTION:Rendimentos de Capital - Fundos de Investimento\nPeríodo de ap
+ uração: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: Decendial\n
+ Documento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5035)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0079-92e0efee8965@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (1605)
+DESCRIPTION:Rendimentos de Capital - Fundo de Investimento em Participaçõ
+ es (FIP)\, Fundo de Investimento em Índice de Mercado (Exchange Traded Fun
+ d - ETF)\, Fundo de Investimento em Direitos Creditórios (FIDC) e Fundo Mu
+ ltimercado (FIM)\nPeríodo de apuração: 1º decêndio mês atual (10/06/2
+ 026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (1605)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0080-60496cda0d99@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (5286)
+DESCRIPTION:Rendimentos de Residentes ou Domiciliados no Exterior - Aplica
+ ões Financeiras\nPeríodo de apuração: 1º decêndio mês atual (10/06/
+ 2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5286)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0081-85e4afdcad7e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (9453)
+DESCRIPTION:Rendimentos de Residentes ou Domiciliados no Exterior - Juros r
+ emuneratórios de capital próprio\nPeríodo de apuração: 1º decêndio m
+ ês atual (10/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (9453)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0082-cd3d6302f1ad@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (916)
+DESCRIPTION:Outros Rendimentos - Prêmios obtidos em concursos e sorteios\n
+ Período de apuração: 1º decêndio mês atual (10/06/2026)\nPeriodicidad
+ e: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (916)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0083-a7ddd5a9255d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (8673)
+DESCRIPTION:Outros Rendimentos - Prêmios obtidos em bingos\nPeríodo de ap
+ uração: 1º decêndio mês atual (10/06/2026)\nPeriodicidade: Decendial\n
+ Documento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8673)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0084-8ab65c04edf0@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:IRRF (9385)
+DESCRIPTION:Outros Rendimentos - Multas e vantagens\nPeríodo de apuração
+ : 1º decêndio mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocument
+ o: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (9385)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0085-644149012b44@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Cide - Combustíveis (9331)
+DESCRIPTION:Contribuição de Intervenção no Domínio Econômico incident
+ e sobre a comercialização de petróleo e seus derivados\, gás natural\, 
+ exceto sob a forma liquefeita\, e seus derivados\, e álcool etílico combu
+ stível.\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade
+ : Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cide - Combustíveis (9331)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0086-b85f6e1bc1c8@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Cide - Remessas ao Exterior (8741)
+DESCRIPTION:Contribuição de Intervenção no Domínio Econômico incident
+ e sobre a remessa de importâncias ao exterior\nPeríodo de apuração: Mê
+ s Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cide - Remessas ao Exterior (8741)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0087-660393503ad5@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Cofins (3746)
+DESCRIPTION:Retenção - Aquisição de autopeças\nPeríodo de apuração:
+  2ª quinzena mês anterior (31/05/2026)\nPeriodicidade: Quinzenal\nDocumen
+ to: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (3746)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0088-0158bcf90597@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:PIS/Pasep (3770)
+DESCRIPTION:Retenção - Aquisição de autopeças\nPeríodo de apuração:
+  2ª quinzena mês anterior (31/05/2026)\nPeriodicidade: Quinzenal\nDocumen
+ to: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (3770)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0089-66b2c755eb39@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1007)
+DESCRIPTION:Contribuinte Individual - recolhimento mensal NIT/PIS/Pasep\nPe
+ ríodo de apuração: Mês Anterior (05/2026)\nPeriodicidade: Mensal\nDocum
+ ento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1007)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0090-6b4d7628b909@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1120)
+DESCRIPTION:Contribuinte Individual - recolhimento mensal - com dedução d
+ e 45% (Lei nº 9.876/99) - NIT/PIS/Pasep\nPeríodo de apuração: Mês Ante
+ rior (05/2026)\nPeriodicidade: Mensal\nDocumento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1120)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0091-16f26f80aa0a@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1163)
+DESCRIPTION:Contribuinte Individual - Opção: aposentadoria apenas por ida
+ de - recolhimento Mensal - NIT/PIS/Pasep\nPeríodo de apuração: Mês Ante
+ rior (05/2026)\nPeriodicidade: Mensal\nDocumento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1163)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0092-bba2d84e1d60@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1406)
+DESCRIPTION:Segurado Facultativo - recolhimento mensal - NIT/PIS/Pasep\nPer
+ íodo de apuração: Mês Anterior (05/2026)\nPeriodicidade: Mensal\nDocume
+ nto: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1406)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0093-4cf60c36766e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1473)
+DESCRIPTION:Facultativo - Opção: aposentadoria apenas por idade - recolhi
+ mento mensal - NIT/PIS/Pasep\nPeríodo de apuração: Mês Anterior (05/202
+ 6)\nPeriodicidade: Mensal\nDocumento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1473)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0094-83257d8cc9f5@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1503)
+DESCRIPTION:Segurado Especial - recolhimento mensal - NIT/PIS/Pasep\nPerío
+ do de apuração: Mês Anterior (05/2026)\nPeriodicidade: Mensal\nDocumento
+ : GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1503)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0095-162df6a296b8@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1830)
+DESCRIPTION:Facultativo Baixa Renda - recolhimento mensal - Complemento par
+ a Plano Simplificado da Previdência Social - PSPS - Lei nº 12.470/2011\nP
+ eríodo de apuração: Mês Anterior (05/2026)\nPeriodicidade: Mensal\nDocu
+ mento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1830)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0096-95104042b8ee@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1910)
+DESCRIPTION:MEI - Complementação Mensal\nPeríodo de apuração: Mês Ant
+ erior (05/2026)\nPeriodicidade: Mensal\nDocumento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1910)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0097-2a19c78fb688@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1929)
+DESCRIPTION:Facultativo Baixa Renda - recolhimento mensal - NIT/PIS/Pasep\n
+ Período de apuração: Mês Anterior (05/2026)\nPeriodicidade: Mensal\nDoc
+ umento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1929)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0098-f737f168f6fd@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Contribuição Previdenciária (1945)
+DESCRIPTION:Facultativo Baixa Renda - recolhimento mensal - Complemento\nPe
+ ríodo de apuração: Mês Anterior (05/2026)\nPeriodicidade: Mensal\nDocum
+ ento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1945)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0099-142b6132edb8@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:CPSS (1661)
+DESCRIPTION:CPSS - Servidor Civil Ativo\nPeríodo de apuração: 1º decên
+ dio mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1661)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0100-9d4e410509d8@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:CPSS (1700)
+DESCRIPTION:CPSS - Servidor Civil Inativo\nPeríodo de apuração: 1º dec
+ ndio mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1700)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0101-a86bde8d5ed8@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:CPSS (1717)
+DESCRIPTION:CPSS - Pensionista Civil\nPeríodo de apuração: 1º decêndio
+  mês atual (10/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1717)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0102-bb77ff12f8fa@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:CPSS (1769)
+DESCRIPTION:CPSS - Patronal - Servidor Civil Ativo - Operação Intra-Orça
+ mentária\nPeríodo de apuração: 1º decêndio mês atual (10/06/2026)\nP
+ eriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1769)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0103-45dcf90a36d6@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:CPSS (1814)
+DESCRIPTION:CPSS - Patronal - Servidor no Exterior - Operação Intra-Orça
+ mentária\nPeríodo de apuração: 1º decêndio mês atual (10/06/2026)\nP
+ eriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1814)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0104-a07a95ac7b7e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:CPSS (1723)
+DESCRIPTION:CPSS - Servidor Civil Ativo - Precatório Judicial e Requisiç
+ o de Pequeno Valor\nPeríodo de apuração: 1º decêndio mês atual (10/0
+ 6/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1723)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0105-af52ea4ada7b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:CPSS (1730)
+DESCRIPTION:CPSS - Servidor Civil Inativo - Precatório Judicial e Requisi
+ ão de Pequeno Valor\nPeríodo de apuração: 1º decêndio mês atual (10
+ /06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1730)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0106-c9591b17aac4@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:CPSS (1752)
+DESCRIPTION:CPSS - Pensionista - Precatório Judicial e Requisição de Peq
+ ueno Valor\nPeríodo de apuração: 1º decêndio mês atual (10/06/2026)\n
+ Periodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1752)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0107-161b112fc4fd@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Cofins (7987)
+DESCRIPTION:Entidades financeiras e equiparadas\nPeríodo de apuração: M
+ s Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (7987)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0108-4cb8055fce44@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Contribuição Previdenciária (2985)
+DESCRIPTION:Contribuição Previdenciária Sobre Receita Bruta\nPeríodo de
+  apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: 
+ DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (2985)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0109-579cbddef1d2@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Contribuição Previdenciária (2991)
+DESCRIPTION:Contribuição Previdenciária Sobre Receita Bruta\nPeríodo de
+  apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: 
+ DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (2991)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0110-8f0b70349b88@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Contribuição Previdenciária (1082)
+DESCRIPTION:Contribuição previdenciária descontada de segurados empregad
+ os e avulsos e de trabalhadores rurais contratados por pequeno prazo\nPerí
+ odo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocum
+ ento: DARF/DAE
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1082)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0111-95e2983d021d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Contribuição Previdenciária (1099)
+DESCRIPTION:Contribuição Previdenciária descontada de segurados contribu
+ intes individuais\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeri
+ odicidade: Mensal\nDocumento: DARF/DAE
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1099)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0112-66b95f8d0316@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Contribuição Previdenciária (1138)
+DESCRIPTION:Contribuição empresa\, inclusive SIMPLES concomitante\, s/ re
+ muner empregados\, avulsos e contrib. individuais\, MEI s/ remuner empregad
+ o\, empregador doméstico s/sal contrib doméstico.\nPeríodo de apuração
+ : Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF/DAE
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Contribuição Previdenciária (1138)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0113-24a2db4f533b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (5952)
+DESCRIPTION:Retenção de contribuições - pagamentos de PJ a PJ de direit
+ o privado (Cofins\, PIS/Pasep\, CSLL)\nPeríodo de apuração: Mês Anterio
+ r (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (5952)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0114-6b662a8e8d6f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (5979)
+DESCRIPTION:Retenção PIS/Pasep - pagamentos de PJ a PJ de direito privado
+ \nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal
+ \nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (5979)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0115-13b2233f294c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (5960)
+DESCRIPTION:Retenção Cofins - pagamentos de PJ a PJ de direito privado\nP
+ eríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nD
+ ocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (5960)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0116-ae20cbd17c3b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (5987)
+DESCRIPTION:Retenção CSLL - pagamentos de PJ a PJ de direito privado\nPer
+ íodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDoc
+ umento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (5987)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0117-610fe6d031c7@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (67)
+DESCRIPTION:Produtos - Retenção em Pagamentos por Órgãos Públicos - Op
+ erações Intra Orçamentárias\nPeríodo de apuração: Mês Anterior (31/
+ 05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (67)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0118-f1ab09e250dc@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (70)
+DESCRIPTION:Transporte de Passageiros - Retenção em Pagamentos por Órgã
+ os Públicos - Operações Intra Orçamentárias\nPeríodo de apuração: M
+ ês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (70)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0119-b53b7b8e1e7d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (82)
+DESCRIPTION:Financeiras - Retenção em Pagamentos por Órgãos Públicos -
+  Operações Intra Orçamentárias\nPeríodo de apuração: Mês Anterior (
+ 31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (82)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0120-2863a5e9a01f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (95)
+DESCRIPTION:Serviços - Retenção em Pagamentos por Órgãos Públicos - O
+ perações Intra Orçamentárias\nPeríodo de apuração: Mês Anterior (31
+ /05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (95)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0121-ad73c47f8e9f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (110)
+DESCRIPTION:Medicamentos Adquiridos do Distribuidor ou Varejista - Retido p
+ or Órgão Público - Operações Intra Orçamentárias\nPeríodo de apura
+ ão: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (110)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0122-5bac73bd0aa4@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (122)
+DESCRIPTION:Transporte Internacional de Passageiros-Empresas Nacionais - Re
+ tido por Órgão Público-Operações Intra Orçamentárias\nPeríodo de ap
+ uração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DAR
+ F
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (122)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0123-67e69c2378b7@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:CSRF (123)
+DESCRIPTION:Bens e serviços adquiridos de sociedades cooperativas e associ
+ ações profissionais ou assemelhadas - Retido por órgão público - Opera
+ ções Intra-orçamentárias\nPeríodo de apuração: Mês Anterior (31/05/
+ 2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSRF (123)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0124-0b731e28a39e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (3208)
+DESCRIPTION:Rendimentos de Capital - Aluguéis e royalties pagos a pessoa f
+ ísica\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: 
+ Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3208)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0125-08b2c077172b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (3277)
+DESCRIPTION:Rendimentos de Capital - Rendimentos de partes beneficiárias o
+ u de fundador\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodic
+ idade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3277)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0126-e2e6ab56ccb7@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (3223)
+DESCRIPTION:Rendimentos de Capital - Resgate Previdência Complementar/Moda
+ lidade Contribuição Definida/Variável - Não Optante Tributação Exclus
+ iva\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Men
+ sal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3223)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0127-5352e11fc389@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (3556)
+DESCRIPTION:Rendimentos de Capital - Resgate Previdência Complementar/Moda
+ lidade Benefício Definido - Não Optante Tributação Exclusiva\nPeríodo 
+ de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento
+ : DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3556)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0128-7bcf2823bcb9@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (3579)
+DESCRIPTION:Rendimentos de Capital - Resgate Previdência Complementar - Op
+ tante Tributação Exclusiva\nPeríodo de apuração: Mês Anterior (31/05/
+ 2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3579)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0129-df71b698467c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (3540)
+DESCRIPTION:Rendimentos de Capital - Benefício Previdência Complementar -
+  Não Optante Tributação Exclusiva\nPeríodo de apuração: Mês Anterior
+  (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3540)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0130-41a9efa63332@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (5565)
+DESCRIPTION:Rendimentos de Capital - Benefício Previdência Complementar -
+  Optante Tributação Exclusiva\nPeríodo de apuração: Mês Anterior (31/
+ 05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5565)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0131-3bcad650bd47@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (561)
+DESCRIPTION:Rendimentos do Trabalho - Trabalho assalariado (exceto Trabalha
+ dor Doméstico)\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriod
+ icidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (561)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0132-3e72902d0734@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (588)
+DESCRIPTION:Rendimentos do Trabalho - Trabalho sem vínculo empregatício\n
+ Período de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\n
+ Documento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (588)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0133-387cfbef8c97@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (3533)
+DESCRIPTION:Rendimentos do Trabalho - Aposentadoria Regime Geral ou do Serv
+ idor Público\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodic
+ idade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3533)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0134-20934925f6ed@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (3562)
+DESCRIPTION:Rendimentos do Trabalho - Participação nos Lucros ou Resultad
+ os - PLR\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade
+ : Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3562)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0135-ad99178c6fd7@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (5936)
+DESCRIPTION:Rendimentos do Trabalho - Rendimentos decorrentes de decisão d
+ a Justiça do Trabalho\, exceto o disposto no art. 12-A da Lei nº 7.713\, 
+ de 1988\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade:
+  Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5936)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0136-eb4f0dfc5a87@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (1889)
+DESCRIPTION:Rendimentos do Trabalho - Rendimentos Acumulados\nPeríodo de a
+ puração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DA
+ RF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (1889)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0137-308d038c8ce2@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (1708)
+DESCRIPTION:Outros Rendimentos - Remuneração de serviços prestados por p
+ essoa jurídica\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriod
+ icidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (1708)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0138-9fa0fa3dbb65@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (5944)
+DESCRIPTION:Outros Rendimentos - Pagamentos de PJ a PJ por serviços de fac
+ toring\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: 
+ Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5944)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0139-48046244a895@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (3280)
+DESCRIPTION:Outros Rendimentos - Pagamento PJ a cooperativa de trabalho\nPe
+ ríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDo
+ cumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3280)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0140-2c9e27aed7ee@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (5204)
+DESCRIPTION:Outros Rendimentos - Juros e indenizações de lucros cessantes
+ \nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal
+ \nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5204)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0141-11497ef51b3c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (6891)
+DESCRIPTION:Outros Rendimentos - Vida Gerador de Benefício Livre (VGBL)\nP
+ eríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nD
+ ocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6891)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0142-0a2cac714d93@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (6904)
+DESCRIPTION:Outros Rendimentos - Indenização por danos morais\nPeríodo d
+ e apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento:
+  DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6904)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0143-e46680ae3b9b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (5928)
+DESCRIPTION:Outros Rendimentos - Rendimentos decorrentes de decisão da Jus
+ tiça Federal\, exceto o disposto no art. 12-A da Lei nº 7.713\, de 1988\n
+ Período de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\n
+ Documento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5928)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0144-ba878f7806b9@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (1895)
+DESCRIPTION:Outros Rendimentos - Rendimentos decorrentes de decisão da Jus
+ tiça dos Estados/Distrito Federal\, exceto o disposto no art. 12-A da Lei 
+ nº 7.713\, de 1988\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPe
+ riodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (1895)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0145-30caabea5dab@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (8045)
+DESCRIPTION:Outros Rendimentos - Demais rendimentos\nPeríodo de apuração
+ : Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8045)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0146-509b44c99143@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (1841)
+DESCRIPTION:Lucros ou Dividendos - residentes no país\nPeríodo de apuraç
+ ão: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (1841)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0147-2502d33e12a5@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IRRF (39)
+DESCRIPTION:Remuneração Serviços Prestados por Pessoa Jurídica - Opera
+ ões Intra Orçamentárias\nPeríodo de apuração: Mês Anterior (31/05/2
+ 026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (39)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0148-c12eb9687842@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:PIS/Pasep (4574)
+DESCRIPTION:Entidades financeiras e equiparadas\nPeríodo de apuração: M
+ s Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (4574)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0149-cde94dad27b6@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Simples Doméstico
+DESCRIPTION:Regime unificado de pagamento de tributos\, de contribuições 
+ e dos demais encargos do empregador doméstico\nPeríodo de apuração: Mê
+ s Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DAE
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Simples Doméstico
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0150-91c5ffadbb88@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:RET (6177)
+DESCRIPTION:Pagamento Unificado - Regime de Tributação Específica do Fut
+ ebol (TEF)\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicida
+ de: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: RET (6177)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0151-d55789508e86@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:RET (4095)
+DESCRIPTION:Pagamento Unificado - Ret Aplicável às Incorporações Imobil
+ iárias (IRPJ\, CSLL\, PIS/Pasep\, Cofins)\nPeríodo de apuração: Mês An
+ terior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: RET (4095)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0152-ed882de16472@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:RET (1068)
+DESCRIPTION:Pagamento Unificado - Regime Especial Aplicável às Incorpora
+ ões Imobiliárias e às Construções\, ambas no âmbito do PMCMV e à Co
+ nstrução ou Reforma de Creches e Pré-Escolas (IRPJ\, CSLL\, PIS/Pasep\, 
+ Cofins)\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade:
+  Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: RET (1068)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0153-79c4ad7aea0d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:RET (4112)
+DESCRIPTION:Regime Especial de Tributação Aplicável às Incorporações 
+ Imobiliárias e às Construções (IRPJ)\nPeríodo de apuração: Mês Ante
+ rior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: RET (4112)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0154-fa8941085b3b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:RET (4153)
+DESCRIPTION:Regime Especial de Tributação Aplicável às Incorporações 
+ Imobiliárias e às Construções (CSLL)\nPeríodo de apuração: Mês Ante
+ rior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: RET (4153)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0155-b393a8575f9f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:RET (4138)
+DESCRIPTION:Regime Especial de Tributação Aplicável às Incorporações 
+ Imobiliárias e às Construções (PIS/Pasep)\nPeríodo de apuração: Mês
+  Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: RET (4138)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0156-06bfc3783879@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:RET (4166)
+DESCRIPTION:Regime Especial de Tributação Aplicável às Incorporações 
+ Imobiliárias e às Construções (Cofins)\nPeríodo de apuração: Mês An
+ terior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: RET (4166)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0157-80fa4a80b65c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Simples Nacional
+DESCRIPTION:Regime Especial Unificado de Arrecadação de Tributos e Contri
+ buições devidos pelas Microempresas e Empresas de Pequeno Porte.\nPeríod
+ o de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumen
+ to: DAS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Simples Nacional
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0158-ea30d7a8ff5e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IOF (1150)
+DESCRIPTION:Operações de Crédito - Pessoa Jurídica\nPeríodo de apuraç
+ ão: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocum
+ ento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (1150)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0159-349944dc2e0f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IOF (7893)
+DESCRIPTION:Operações de Crédito - Pessoa Física\nPeríodo de apuraçã
+ o: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocumen
+ to: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (7893)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0160-5729d8fb0b3d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IOF (4290)
+DESCRIPTION:Operações de Câmbio - Entrada de moeda\nPeríodo de apuraç
+ o: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocume
+ nto: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (4290)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0161-863bb9d7542f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IOF (5220)
+DESCRIPTION:Operações de Câmbio - Saída de moeda\nPeríodo de apuraçã
+ o: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocumen
+ to: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (5220)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0162-fa450de3fb6d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IOF (6854)
+DESCRIPTION:Aplicações Financeiras\nPeríodo de apuração: 2º decêndio
+  mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (6854)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0163-4854c01e3cbf@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IOF (6895)
+DESCRIPTION:Factoring\nPeríodo de apuração: 2º decêndio mês atual (20
+ /06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (6895)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0164-fdb257d027e5@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IOF (3467)
+DESCRIPTION:Seguros\nPeríodo de apuração: 2º decêndio mês atual (20/0
+ 6/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (3467)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0165-41ddf4276c49@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IOF (4028)
+DESCRIPTION:Ouro\, Ativo Financeiro\nPeríodo de apuração: 2º decêndio 
+ mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (4028)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0166-8e9737973643@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (8053)
+DESCRIPTION:Rendimentos de Capital - Títulos de renda fixa - Pessoa Físic
+ a\nPeríodo de apuração: 2º decêndio mês atual (20/06/2026)\nPeriodici
+ dade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8053)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0167-b6d5884a43ec@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (3426)
+DESCRIPTION:Rendimentos de Capital - Títulos de renda fixa - Pessoa Juríd
+ ica\nPeríodo de apuração: 2º decêndio mês atual (20/06/2026)\nPeriodi
+ cidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3426)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0168-d5e425c2f4e4@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (6800)
+DESCRIPTION:Rendimentos de Capital - Fundo de Investimento sujeito à tribu
+ tação periódica\nPeríodo de apuração: 2º decêndio mês atual (20/06
+ /2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6800)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0169-dc96f36c7ce1@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (6813)
+DESCRIPTION:Rendimentos de Capital - Fundo de Investimento em Ações\nPer
+ odo de apuração: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: D
+ ecendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6813)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0170-dd54dd1a98a1@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (5273)
+DESCRIPTION:Rendimentos de Capital - Operações de swap\nPeríodo de apura
+ ção: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: Decendial\nDoc
+ umento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5273)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0171-5852b93229cf@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (8468)
+DESCRIPTION:Rendimentos de Capital - Day-Trade - Operações em Bolsas\nPer
+ íodo de apuração: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: 
+ Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8468)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0172-08415f67ea12@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (5557)
+DESCRIPTION:Rendimentos de Capital - Ganhos líquidos em operações em bol
+ sas e assemelhados\nPeríodo de apuração: 2º decêndio mês atual (20/06
+ /2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5557)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0173-41533d24275c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (5706)
+DESCRIPTION:Rendimentos de Capital - Juros remuneratórios do capital próp
+ rio\nPeríodo de apuração: 2º decêndio mês atual (20/06/2026)\nPeriodi
+ cidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5706)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0174-f02c20ea8809@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (5232)
+DESCRIPTION:Rendimentos de Capital - Fundos de Investimento Imobiliário (F
+ II) e Fundos de Investimento nas Cadeias Produtivas do Agronegócio (Fiagro
+ ) - Resgate ou amortização de cotas ou distribuição de rendimentos\nPer
+ íodo de apuração: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: 
+ Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5232)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0175-33ebb80d5afc@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (924)
+DESCRIPTION:Rendimentos de Capital - Demais rendimentos de capital\nPeríod
+ o de apuração: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: Dece
+ ndial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (924)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0176-d542c44a8ea5@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (3699)
+DESCRIPTION:Rendimentos de Capital - Aplicações financeiras em ativos de 
+ infraestrutura - Tributação Exclusiva\nPeríodo de apuração: 2º decên
+ dio mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (3699)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0177-75d75413f0d4@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (5029)
+DESCRIPTION:Rendimentos de Capital - Ganho de Capital - Integralização de
+  Cotas com Ativos\nPeríodo de apuração: 2º decêndio mês atual (20/06/
+ 2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5029)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0178-baf18de67435@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (5035)
+DESCRIPTION:Rendimentos de Capital - Fundos de Investimento\nPeríodo de ap
+ uração: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: Decendial\n
+ Documento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5035)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0179-383e082cc2ae@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (1605)
+DESCRIPTION:Rendimentos de Capital - Fundo de Investimento em Participaçõ
+ es (FIP)\, Fundo de Investimento em Índice de Mercado (Exchange Traded Fun
+ d - ETF)\, Fundo de Investimento em Direitos Creditórios (FIDC) e Fundo Mu
+ ltimercado (FIM)\nPeríodo de apuração: 2º decêndio mês atual (20/06/2
+ 026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (1605)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0180-de344dc140ee@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (5286)
+DESCRIPTION:Rendimentos de Residentes ou Domiciliados no Exterior - Aplica
+ ões Financeiras\nPeríodo de apuração: 2º decêndio mês atual (20/06/
+ 2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5286)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0181-94d847873fc0@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (9453)
+DESCRIPTION:Rendimentos de Residentes ou Domiciliados no Exterior - Juros r
+ emuneratórios de capital próprio\nPeríodo de apuração: 2º decêndio m
+ ês atual (20/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (9453)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0182-fcd5cbee4a46@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (916)
+DESCRIPTION:Outros Rendimentos - Prêmios obtidos em concursos e sorteios\n
+ Período de apuração: 2º decêndio mês atual (20/06/2026)\nPeriodicidad
+ e: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (916)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0183-9c0fce68b161@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (8673)
+DESCRIPTION:Outros Rendimentos - Prêmios obtidos em bingos\nPeríodo de ap
+ uração: 2º decêndio mês atual (20/06/2026)\nPeriodicidade: Decendial\n
+ Documento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8673)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0184-a891409c83fc@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:IRRF (9385)
+DESCRIPTION:Outros Rendimentos - Multas e vantagens\nPeríodo de apuração
+ : 2º decêndio mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocument
+ o: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (9385)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0185-c35316a550a1@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Cofins (2172)
+DESCRIPTION:Demais Entidades\nPeríodo de apuração: Mês Anterior (31/05/
+ 2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (2172)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0186-7d0312f01983@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Cofins (8645)
+DESCRIPTION:Fabricantes/Importadores de veículos em substituição tribut
+ ria\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Me
+ nsal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (8645)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0187-d97795f957f9@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Cofins (6840)
+DESCRIPTION:Combustíveis\nPeríodo de apuração: Mês Anterior (31/05/202
+ 6)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (6840)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0188-abb3e3de8be9@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Cofins (5856)
+DESCRIPTION:Não-cumulativa\nPeríodo de apuração: Mês Anterior (31/05/2
+ 026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (5856)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0189-dd973c77bee7@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Cofins (1840)
+DESCRIPTION:Vendas à Zona Franca de Manaus (ZFM) - Substituição Tributá
+ ria\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Men
+ sal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (1840)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0190-90433f5e18fb@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Cofins (760)
+DESCRIPTION:Cervejas - Tributação de Bebidas Frias\nPeríodo de apuraçã
+ o: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (760)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0191-596d4da5dd6d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Cofins (776)
+DESCRIPTION:Demais bebidas - Tributação de Bebidas Frias\nPeríodo de apu
+ ração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (776)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0192-b6a230b7d16b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Cofins (929)
+DESCRIPTION:Álcool - Regime Especial de Apuração e Pagamento\nPeríodo d
+ e apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento:
+  DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (929)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0193-45c5e52d5d74@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:IPI (676)
+DESCRIPTION:Automóveis\nPeríodo de apuração: Mês Anterior (31/05/2026)
+ \nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IPI (676)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0194-28091dee7ce1@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:IPI (1097)
+DESCRIPTION:Máquinas\, Aparelhos e Material de Transporte\nPeríodo de apu
+ ração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IPI (1097)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0195-9e230a12bf20@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:IPI (5110)
+DESCRIPTION:Tabaco e seus Sucedâneos Manufaturados\, Exceto Cigarros Conte
+ ndo Tabaco\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicida
+ de: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IPI (5110)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0196-e05fed293bd1@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:IPI (5123)
+DESCRIPTION:Todos os produtos\, com exceção de: bebidas (Capítulo 22)\, 
+ Tabaco e seus Sucedâneos Manufaturados (Capítulo 24) e os das posições 
+ 84.29\, 84.32\, 84.33\, 87.01 a 87.06 e 87.11 da Tipi\nPeríodo de apuraç
+ o: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IPI (5123)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0197-4a0bd3920081@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:IPI (668)
+DESCRIPTION:Bebidas do capítulo 22 da Tipi\nPeríodo de apuração: Mês A
+ nterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IPI (668)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0198-6790de058727@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:IPI (821)
+DESCRIPTION:Cervejas - Tributação de Bebidas Frias\nPeríodo de apuraçã
+ o: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IPI (821)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0199-8bc4e1a99383@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:IPI (838)
+DESCRIPTION:Demais bebidas - Tributação de Bebidas Frias\nPeríodo de apu
+ ração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IPI (838)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0200-cdbf615d6f83@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (8109)
+DESCRIPTION:Faturamento\nPeríodo de apuração: Mês Anterior (31/05/2026)
+ \nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (8109)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0201-c50953039c6c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (8301)
+DESCRIPTION:Folha de salários\nPeríodo de apuração: Mês Anterior (31/0
+ 5/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (8301)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0202-227328814ab2@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (3703)
+DESCRIPTION:Pessoa jurídica de direito público\nPeríodo de apuração: M
+ ês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (3703)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0203-aaf4719b3b7e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (8496)
+DESCRIPTION:Fabricantes/Importadores de veículos em substituição tribut
+ ria\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Me
+ nsal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (8496)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0204-46187c72744d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (6824)
+DESCRIPTION:Combustíveis\nPeríodo de apuração: Mês Anterior (31/05/202
+ 6)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (6824)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0205-70d70f569ffd@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (6912)
+DESCRIPTION:Não-cumulativa\nPeríodo de apuração: Mês Anterior (31/05/2
+ 026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (6912)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0206-e49b34bed81d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (1921)
+DESCRIPTION:Vendas à Zona Franca de Manaus (ZFM) - Substituição Tributá
+ ria\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Men
+ sal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (1921)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0207-d055521beb32@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (679)
+DESCRIPTION:Cervejas - Tributação de Bebidas Frias\nPeríodo de apuraçã
+ o: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (679)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0208-ec19e4bbf78b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (691)
+DESCRIPTION:Demais bebidas - Tributação de Bebidas Frias\nPeríodo de apu
+ ração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (691)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0209-803669bac00e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:PIS/Pasep (906)
+DESCRIPTION:Álcool - Regime Especial de Apuração e Pagamento\nPeríodo d
+ e apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento:
+  DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (906)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0210-3ca9798d1c17@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:CPSS (1661)
+DESCRIPTION:CPSS - Servidor Civil Ativo\nPeríodo de apuração: 2º decên
+ dio mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1661)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0211-04a6704a5e7c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:CPSS (1700)
+DESCRIPTION:CPSS - Servidor Civil Inativo\nPeríodo de apuração: 2º dec
+ ndio mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1700)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0212-266d072e04dd@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:CPSS (1717)
+DESCRIPTION:CPSS - Pensionista Civil\nPeríodo de apuração: 2º decêndio
+  mês atual (20/06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1717)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0213-27cab0ebd459@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:CPSS (1769)
+DESCRIPTION:CPSS - Patronal - Servidor Civil Ativo - Operação Intra-Orça
+ mentária\nPeríodo de apuração: 2º decêndio mês atual (20/06/2026)\nP
+ eriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1769)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0214-6980d768d0f9@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:CPSS (1814)
+DESCRIPTION:CPSS - Patronal - Servidor no Exterior - Operação Intra-Orça
+ mentária\nPeríodo de apuração: 2º decêndio mês atual (20/06/2026)\nP
+ eriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1814)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0215-a2e51d76aec7@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:CPSS (1723)
+DESCRIPTION:CPSS - Servidor Civil Ativo - Precatório Judicial e Requisiç
+ o de Pequeno Valor\nPeríodo de apuração: 2º decêndio mês atual (20/0
+ 6/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1723)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0216-cf93cdb6b21e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:CPSS (1730)
+DESCRIPTION:CPSS - Servidor Civil Inativo - Precatório Judicial e Requisi
+ ão de Pequeno Valor\nPeríodo de apuração: 2º decêndio mês atual (20
+ /06/2026)\nPeriodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1730)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0217-538d25e2057c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:CPSS (1752)
+DESCRIPTION:CPSS - Pensionista - Precatório Judicial e Requisição de Peq
+ ueno Valor\nPeríodo de apuração: 2º decêndio mês atual (20/06/2026)\n
+ Periodicidade: Decendial\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CPSS (1752)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0218-9513b7844263@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Cofins (3746)
+DESCRIPTION:Retenção - Aquisição de autopeças\nPeríodo de apuração:
+  1ª quinzena mês atual (15/06/2026)\nPeriodicidade: Quinzenal\nDocumento:
+  DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Cofins (3746)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0219-f28b08c2010f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:CSLL (2469)
+DESCRIPTION:Entidades Financeiras - Estimativa Mensal\nPeríodo de apuraç
+ o: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSLL (2469)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0220-55f043a1c36b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:CSLL (2484)
+DESCRIPTION:Demais Entidades - Estimativa Mensal\nPeríodo de apuração: M
+ ês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSLL (2484)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0221-80d6a0c7b824@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:CSLL (2030)
+DESCRIPTION:Entidades Financeiras - Balanço Trimestral (Quota)\nPeríodo d
+ e apuração: Trimestre anterior (31/03/2026)\nPeriodicidade: Trimestral\nD
+ ocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSLL (2030)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0222-aa08ca1fbe5f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:CSLL (6012)
+DESCRIPTION:Demais Entidades - Balanço Trimestral (Quota)\nPeríodo de apu
+ ração: Trimestre anterior (31/03/2026)\nPeriodicidade: Trimestral\nDocume
+ nto: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSLL (6012)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0223-c116eb179894@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:CSLL (2372)
+DESCRIPTION:Lucro Presumido ou Arbitrado (Quota)\nPeríodo de apuração: T
+ rimestre anterior (31/03/2026)\nPeriodicidade: Trimestral\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: CSLL (2372)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0224-c33a0522476c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IOF (2927)
+DESCRIPTION:Contrato de Derivativos\nPeríodo de apuração: Mês Anterior 
+ (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IOF (2927)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0225-7ddb747dcdfe@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (2319)
+DESCRIPTION:Entidades Financeiras - Estimativa Mensal\nPeríodo de apuraç
+ o: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (2319)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0226-4b245404167b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (2362)
+DESCRIPTION:Demais Entidades - Estimativa Mensal\nPeríodo de apuração: M
+ ês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (2362)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0227-bb5475712e1d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (5993)
+DESCRIPTION:Optantes pelo Lucro Real - Estimativa Mensal\nPeríodo de apura
+ ção: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (5993)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0228-4269ebd3caff@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (3317)
+DESCRIPTION:IRPJ - Ganhos Líquidos em Operações na Bolsa - Lucro Real\nP
+ eríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nD
+ ocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (3317)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0229-f372cf34dc08@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (231)
+DESCRIPTION:IRPJ - Ganhos Líquidos em Operações na Bolsa - Lucro Presumi
+ do ou Arbitrado\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriod
+ icidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (231)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0230-a16fa7f11e67@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (507)
+DESCRIPTION:Ganho de Capital - Alienação de Ativos de ME/EPP optantes pel
+ o Simples Nacional\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPer
+ iodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (507)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0231-a6358f2783a0@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (1599)
+DESCRIPTION:Entidades Financeiras - Balanço Trimestral (Quota)\nPeríodo d
+ e apuração: Trimestre anterior (31/03/2026)\nPeriodicidade: Trimestral\nD
+ ocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (1599)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0232-51e47d842dc1@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (220)
+DESCRIPTION:Demais Entidades - Balanço Trimestral (Quota)\nPeríodo de apu
+ ração: Trimestre anterior (31/03/2026)\nPeriodicidade: Trimestral\nDocume
+ nto: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (220)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0233-225bb7d44e1b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (3373)
+DESCRIPTION:Optantes pelo Lucro Real - Balanço Trimestral (Quota)\nPeríod
+ o de apuração: Trimestre anterior (31/03/2026)\nPeriodicidade: Trimestral
+ \nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (3373)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0234-e0a2a964e34e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (2089)
+DESCRIPTION:Lucro Presumido (Quota)\nPeríodo de apuração: Trimestre ante
+ rior (31/03/2026)\nPeriodicidade: Trimestral\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (2089)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0235-fa5fd212eb23@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRPJ (5625)
+DESCRIPTION:Lucro Arbitrado (Quota)\nPeríodo de apuração: Trimestre ante
+ rior (31/03/2026)\nPeriodicidade: Trimestral\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRPJ (5625)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0236-f11727bf3d98@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (5232)
+DESCRIPTION:Fundos de investimento imobiliário - rendimentos e ganhos de c
+ apital distribuídos semestralmente\nPeríodo de apuração: Mês Anterior 
+ (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (5232)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0237-80d72bab807f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (473)
+DESCRIPTION:Rendimentos de PJ no Exterior – Ganhos de capital de alienaç
+ ão de bens e direitos do ativo circulante localizados no Brasil\nPeríodo 
+ de apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento
+ : DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (473)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0238-fcb2f76d7bfc@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (190)
+DESCRIPTION:Recolhimento mensal (Carnê Leão)\nPeríodo de apuração: Mê
+ s Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (190)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0239-80cc06352c32@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (4600)
+DESCRIPTION:Ganhos de capital na alienação de bens e direitos\nPeríodo d
+ e apuração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento:
+  DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (4600)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0240-d13bd928c84e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (8523)
+DESCRIPTION:Ganhos de Capital na Alienação de Bens e Direitos Localizados
+  no Exterior\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodici
+ dade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8523)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0241-d136309d56d0@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (6015)
+DESCRIPTION:Ganhos líquidos em operações em bolsa\nPeríodo de apuraçã
+ o: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6015)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0242-b06bc7d04f56@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (6371)
+DESCRIPTION:Ganhos de Capital de Depósito em Conta Corrente\, Cartão de C
+ rédito ou Débito no Exterior\nPeríodo de apuração: Mês Anterior (31/0
+ 5/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (6371)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0243-86fda49d65bf@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (211)
+DESCRIPTION:Imposto apurado na Declaração de Ajuste Anual (Quota)\nPerío
+ do de apuração: Ano-calendário anterior (31/12/2025)\nPeriodicidade: Anu
+ al\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (211)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0244-6ca4e42a0e56@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (8960)
+DESCRIPTION:Ganho de capital na alienação de moeda estrangeira mantida em
+  espécie\nPeríodo de apuração: Mês Anterior (31/05/2026)\nPeriodicidad
+ e: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (8960)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0245-5e972b0fb3b4@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:IRRF (1897)
+DESCRIPTION:Ganho de capital na alienação de criptoativos\nPeríodo de ap
+ uração: Mês Anterior (31/05/2026)\nPeriodicidade: Mensal\nDocumento: DAR
+ F
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: IRRF (1897)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0246-907f5939f9df@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:PIS/Pasep (3770)
+DESCRIPTION:Retenção - Aquisição de autopeças\nPeríodo de apuração:
+  Mês Anterior (31/05/2026)\nPeriodicidade: Quinzenal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PIS/Pasep (3770)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0247-9d30a3bd1569@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (9100)
+DESCRIPTION:Refis - Parcelamento vinculado à receita bruta\nPeríodo de ap
+ uração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (9100)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0248-bf2188ce1284@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (9222)
+DESCRIPTION:Refis - Parcelamento alternativo\nPeríodo de apuração: Mês 
+ Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (9222)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0249-c2950bbfa61b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (9113)
+DESCRIPTION:Refis - ITR/Exercícios até 1996\nPeríodo de apuração: Mês
+  Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (9113)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0250-bf7774569a16@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (9126)
+DESCRIPTION:Refis - ITR/Exercícios a partir de 1997\nPeríodo de apuraçã
+ o: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (9126)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0251-681b2a6a797b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (7042)
+DESCRIPTION:Paes - Pessoa Física\nPeríodo de apuração: Mês Atual (30/0
+ 6/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (7042)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0252-c040dabd7adc@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (7093)
+DESCRIPTION:Paes - Microempresa\nPeríodo de apuração: Mês Atual (30/06/
+ 2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (7093)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0253-75c192a88c2a@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (7114)
+DESCRIPTION:Paes - Empresa de Pequeno Porte\nPeríodo de apuração: Mês A
+ tual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (7114)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0254-2fe96ec262f7@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (7122)
+DESCRIPTION:Paes - Demais Pessoas Jurídicas\nPeríodo de apuração: Mês 
+ Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (7122)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0255-7a9141789ca5@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (7288)
+DESCRIPTION:Paes - ITR\nPeríodo de apuração: Mês Atual (30/06/2026)\nPe
+ riodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (7288)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0256-65ded5bdb428@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Simples Nacional - ME/EPP\nPeríodo de apuração: Mês Atual (
+ 30/06/2026)\nPeriodicidade: Mensal\nDocumento: DAS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0257-b07be6459301@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Simples Nacional - MEI\nPeríodo de apuração: Mês Atual (30/
+ 06/2026)\nPeriodicidade: Mensal\nDocumento: DAS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0258-724e5ab2439b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Simples Nacional - ME/EPP\nPeríodo de apuração: Mês Atual (
+ 30/06/2026)\nPeriodicidade: Mensal\nDocumento: DAS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0259-67af25718a35@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Simples Nacional - MEI\nPeríodo de apuração: Mês Atual (30/
+ 06/2026)\nPeriodicidade: Mensal\nDocumento: DAS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0260-2ece431bdfa9@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Programa Especial de Regularização Tributária das Microempre
+ sas e Empresas de Pequeno Porte optantes pelo Simples Nacional (Pert-SN)\nP
+ eríodo de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocu
+ mento: DAS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0261-166e152d75f8@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Programa Especial de Regularização Tributária das Microempre
+ sas e Empresas de Pequeno Porte optantes pelo Simples Nacional (Pert-SN-MEI
+ ) Microempreendedor Individual\nPeríodo de apuração: Mês Atual (30/06/2
+ 026)\nPeriodicidade: Mensal\nDocumento: DAS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0262-7fbf03ac527d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1136)
+DESCRIPTION:PGFN - Débitos Previdenciários - Parcelamento de Dívidas Nã
+ o Parceladas Anteriormente\nPeríodo de apuração: Mês Atual (30/06/2026)
+ \nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1136)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0263-ac075be8359e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1165)
+DESCRIPTION:PGFN - Débitos Previdenciários - Parcelamento de Saldo Remane
+ scente dos Programas Refis\, Paes\, Paex e Parcelamentos Ordinários\nPerí
+ odo de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocument
+ o: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1165)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0264-19a45ad00f3c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1194)
+DESCRIPTION:PGFN - Demais Débitos - Parcelamento de Dívidas Não Parcelad
+ as Anteriormente\nPeríodo de apuração: Mês Atual (30/06/2026)\nPeriodic
+ idade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1194)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0265-2615bdfa1be5@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1204)
+DESCRIPTION:PGFN - Demais Débitos - Parcelamento de Saldo Remanescente dos
+  Programas Refis\, Paes\, Paex e Parcelamentos Ordinários\nPeríodo de apu
+ ração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1204)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0266-0445a97ae33b@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1210)
+DESCRIPTION:PGFN - Parcelamento Dívida Decorrente de Aproveitamento Indevi
+ do de Créditos de IPI\nPeríodo de apuração: Mês Atual (30/06/2026)\nPe
+ riodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1210)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0267-f528a776df4e@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1233)
+DESCRIPTION:RFB - Débitos Previdenciários - Parcelamento de Dívidas Não
+  Parceladas Anteriormente\nPeríodo de apuração: Mês Atual (30/06/2026)\
+ nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1233)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0268-80b6cc493bf8@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1240)
+DESCRIPTION:RFB - Débitos Previdenciários - Parcelamento de Saldo Remanes
+ cente dos Programas Refis\, Paes\, Paex e Parcelamentos Ordinários\nPerío
+ do de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento
+ : DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1240)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0269-541a697b5e84@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1279)
+DESCRIPTION:RFB - Demais Débitos - Parcelamento de Dívidas Não Parcelada
+ s Anteriormente\nPeríodo de apuração: Mês Atual (30/06/2026)\nPeriodici
+ dade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1279)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0270-208e6da492ef@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1285)
+DESCRIPTION:RFB - Demais Débitos - Parcelamento de Saldo Remanescente dos 
+ Programas Refis\, Paes\, Paex e Parcelamentos Ordinários\nPeríodo de apur
+ ação: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1285)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0271-872fbfe88fc4@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (1291)
+DESCRIPTION:RFB - Parcelamento Dívida Decorrente de Aproveitamento Indevid
+ o de Créditos de IPI\nPeríodo de apuração: Mês Atual (30/06/2026)\nPer
+ iodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (1291)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0272-a2a9f8db0af5@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3780)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - PGFN - Débitos Previdenc
+ iários Parcelamento de Dívidas Não Parceladas Anteriormente - Art. 1º\n
+ Período de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDoc
+ umento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3780)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0273-f8297e063560@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3796)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - PGFN - Débitos Previdenc
+ iários Parcelamento de Dívidas Não Parceladas Anteriormente - Art. 1º\n
+ Período de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDoc
+ umento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3796)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0274-39962e4e641f@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3835)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - PGFN - Débitos Previdenc
+ iários Parcelamento de Saldo Remanescente dos Programas Refis\, Paes\, Pae
+ x e Parcelamentos Ordinários - Art. 3º\nPeríodo de apuração: Mês Atua
+ l (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3835)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0275-f92fd876935c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3841)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - PGFN - Demais Débitos - 
+ Parcelamento de Dívidas Não Parceladas Anteriormente - Art. 1º\nPeríodo
+  de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: 
+ DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3841)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0276-e999cf9ae187@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3858)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - PGFN - Demais Débitos - 
+ Parcelamento de Saldo Remanescente dos Programas Refis\, Paes\, Paex e Parc
+ elamentos Ordinários - Art. 3º\nPeríodo de apuração: Mês Atual (30/06
+ /2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3858)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0277-82819ac391b3@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3870)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - PGFN - Parcelamento Dívi
+ da Decorrente de Aproveitamento Indevido de Créditos de IPI - Art. 2º\nPe
+ ríodo de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocum
+ ento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3870)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0278-ea4c8e84ff90@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3887)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - RFB - Débitos Previdenci
+ ários Parcelamento de Dívidas Não Parceladas Anteriormente - Art. 1º\nP
+ eríodo de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocu
+ mento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3887)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0279-86f45b3508ff@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3926)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - RFB - Débitos Previdenci
+ ários Parcelamento de Saldo Remanescente dos Programas Refis\, Paes\, Paex
+  e Parcelamentos Ordinários - Art. 3º\nPeríodo de apuração: Mês Atual
+  (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3926)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0280-9da7894560ee@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3932)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - RFB - Demais Débitos - P
+ arcelamento de Dívidas Não Parceladas Anteriormente - Art. 1º\nPeríodo 
+ de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: D
+ ARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3932)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0281-aa6e0d644a08@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (3955)
+DESCRIPTION:Reabertura Lei nº 11.941\, de 2009 - RFB - Demais Débitos - P
+ arcelamento de Saldo Remanescente dos Programas Refis\, Paes\, Paex e Parce
+ lamentos Ordinários - Art. 3º\nPeríodo de apuração: Mês Atual (30/06/
+ 2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (3955)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0282-518c3e0c75aa@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4007)
+DESCRIPTION:RFB - PIS/Cofins - Instituições Financeiras e Cia Seguradoras
+ \nPeríodo de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nD
+ ocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4007)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0283-7cdba4bb47b2@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4013)
+DESCRIPTION:PGFN - PIS/Cofins - Instituições Financeiras e Cia Seguradora
+ s\nPeríodo de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\n
+ Documento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4013)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0284-ab809b4b3334@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4020)
+DESCRIPTION:RFB - PIS/Cofins\nPeríodo de apuração: Mês Atual (30/06/202
+ 6)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4020)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0285-33f85a31e94d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4042)
+DESCRIPTION:PGFN - PIS/Cofins\nPeríodo de apuração: Mês Atual (30/06/20
+ 26)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4042)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0286-0b54f2dadb5a@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4059)
+DESCRIPTION:RFB - IRPJ/CSLL\nPeríodo de apuração: Mês Atual (30/06/2026
+ )\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4059)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0287-59a859cf5b06@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4065)
+DESCRIPTION:PGFN - IRPJ/CSLL\nPeríodo de apuração: Mês Atual (30/06/202
+ 6)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4065)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0288-5e37825e3752@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4720)
+DESCRIPTION:PGFN - Débitos Previdenciários\nPeríodo de apuração: Mês 
+ Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4720)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0289-868b2028dac4@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4737)
+DESCRIPTION:PGFN - Demais Débitos\nPeríodo de apuração: Mês Atual (30/
+ 06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4737)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0290-a48e74ac6a81@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4743)
+DESCRIPTION:RFB - Débitos Previdenciários\nPeríodo de apuração: Mês A
+ tual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4743)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0291-596c1b8e76c1@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (4750)
+DESCRIPTION:RFB - Demais Débitos\nPeríodo de apuração: Mês Atual (30/0
+ 6/2026)\nPeriodicidade: Mensal\nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (4750)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0292-8ec3c5e3df0c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento (5161)
+DESCRIPTION:Programa de Regularização Tributária Rural (PRR)\nPeríodo d
+ e apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumento: DA
+ RF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento (5161)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0293-1fd168f8f0cb@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Programa de Regularização Tributária - Débitos Previdenciá
+ rios\nPeríodo de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensa
+ l\nDocumento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0294-2b211d16e50c@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Programa de Regularização Tributária - Demais Débitos\nPer
+ odo de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal\nDocumen
+ to: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0295-3d40c4d5aefa@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Programa Especial de Regularização Tributária - Débitos Pre
+ videnciários\nPeríodo de apuração: Mês Atual (30/06/2026)\nPeriodicida
+ de: Mensal\nDocumento: GPS
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T-0296-ce4850b11109@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Parcelamento
+DESCRIPTION:Programa Especial de Regularização Tributária - Demais Débi
+ tos\nPeríodo de apuração: Mês Atual (30/06/2026)\nPeriodicidade: Mensal
+ \nDocumento: DARF
+CATEGORIES:Tributo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Parcelamento
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D-0001-e39c808e12dc@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:SisObraPrefWeb – Envio\, pelo Município\, da relação de todos 
+ os alvarás para cons
+DESCRIPTION:Interessado: PJ\nPeríodo de referência: Maio/2026\nBase norma
+ tiva: Instrução Normativa RFB nº 1.998/2020
+CATEGORIES:Declaração
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: SisObraPrefWeb – Envio\, pelo Municípi
+ o\, da relação de todos os alvarás para cons
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D-0002-51d57f86807d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:EFD-Contribuições – Escrituração Fiscal Digital das Contribui
+ ções incidentes sob
+DESCRIPTION:Interessado: PJ\nPeríodo de referência: Abril/2026\nBase norm
+ ativa: Instrução Normativa RFB nº 1.252/2012
+CATEGORIES:Declaração
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: EFD-Contribuições – Escrituração Fi
+ scal Digital das Contribuições incidentes sob
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D-0003-3fff087972e0@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:EFD-Reinf – Escrituração Fiscal Digital de Retenções e Outras
+  informações Fiscai
+DESCRIPTION:Interessado: PJ/PF\nPeríodo de referência: Maio/2026\nBase no
+ rmativa: Instrução Normativa RFB nº 2.043/2021
+CATEGORIES:Declaração
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: EFD-Reinf – Escrituração Fiscal Digit
+ al de Retenções e Outras informações Fiscai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D-0004-8a19b6096f99@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Dirbi – Declaração de Incentivos\, Renúncias\, Benefícios e I
+ munidades de Natureza
+DESCRIPTION:Interessado: PJ\nPeríodo de referência: Abril/2026\nBase norm
+ ativa: Instrução Normativa RFB nº 2.198/2024\n⚠️ Prazo original 2026
+ -06-20 prorrogado (weekend:saturday)
+CATEGORIES:Declaração
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: Dirbi – Declaração de Incentivos\, Re
+ núncias\, Benefícios e Imunidades de Natureza
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D-0005-9da91f4caed2@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:PGDAS-D – Programa Gerador do Documento de Arrecadação do Simpl
+ es Nacional
+DESCRIPTION:Interessado: PJ\nPeríodo de referência: Maio/2026\nBase norma
+ tiva: Resolução CGSN nº 140/2018
+CATEGORIES:Declaração
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: PGDAS-D – Programa Gerador do Documento
+  de Arrecadação do Simples Nacional
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D-0006-745257dd72c8@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:DCTFWeb – Declaração de Débitos e Créditos Tributários Feder
+ ais
+DESCRIPTION:Interessado: PJ/PF\nPeríodo de referência: Maio/2026\nBase no
+ rmativa: Instrução Normativa RFB nº 2.237/2024
+CATEGORIES:Declaração
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: DCTFWeb – Declaração de Débitos e Cr
+ éditos Tributários Federais
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D-0007-51ae2b4adc5a@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:DME – Declaração de Operações Liquidadas com Moeda em Espéci
+ e
+DESCRIPTION:Interessado: PJ/PF\nPeríodo de referência: Maio/2026\nBase no
+ rmativa: Instrução Normativa RFB nº 1.761/2017
+CATEGORIES:Declaração
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: DME – Declaração de Operações Liqui
+ dadas com Moeda em Espécie
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D-0008-15931e19e76d@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:DOI – Declaração sobre Operações Imobiliárias
+DESCRIPTION:Interessado: PJ/PF\nPeríodo de referência: Maio/2026\nBase no
+ rmativa: Instrução Normativa RFB nº 2.186/2024
+CATEGORIES:Declaração
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: DOI – Declaração sobre Operações Im
+ obiliárias
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D-0009-809559341668@agenda-tributaria
+DTSTAMP:20261112T172107Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:ECD – Escrituração Contábil Digital
+DESCRIPTION:Interessado: PJ\nPeríodo de referência: Ano-Calendário 2025\
+ nBase normativa: Instrução Normativa RFB nº 2.003/2021
+CATEGORIES:Declaração
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P2D
+DESCRIPTION:Vencimento em 2 dias: ECD – Escrituração Contábil Digital
+END:VALARM
+END:VEVENT
+END:VCALENDAR
