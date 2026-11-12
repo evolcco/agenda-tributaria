@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-05-15T12:46:47.509289+00:00",
+  "generated_at": "2026-11-12T17:21:07.685661+00:00",
   "months": [
+    {
+      "file": "agenda-2026-11.json",
+      "ics_file": "agenda-2026-11.ics",
+      "year": 2026,
+      "month": 11,
+      "label": "Novembro/2026",
+      "payload_generated_at": "2026-11-12T17:21:05.049370+00:00",
+      "agenda_year": 2026,
+      "agenda_month": 11,
+      "agenda_label": "Novembro/2026",
+      "competence_year": 2026,
+      "competence_month": 10,
+      "competence_label": "Outubro/2026",
+      "counts": {
+        "tributos": 298,
+        "declaracoes": 10,
+        "adjusted": 1
+      },
+      "schema_version": "1.1.0",
+      "source_monthly_page_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Novembro",
+      "source_xlsx_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Novembro/anexo-ade-corat-no-85-de-27-10-26.xlsx"
+    },
+    {
+      "file": "agenda-2026-10.json",
+      "ics_file": "agenda-2026-10.ics",
+      "year": 2026,
+      "month": 10,
+      "label": "Outubro/2026",
+      "payload_generated_at": "2026-11-12T17:21:02.466552+00:00",
+      "agenda_year": 2026,
+      "agenda_month": 10,
+      "agenda_label": "Outubro/2026",
+      "competence_year": 2026,
+      "competence_month": 9,
+      "competence_label": "Setembro/2026",
+      "counts": {
+        "tributos": 307,
+        "declaracoes": 10,
+        "adjusted": 0
+      },
+      "schema_version": "1.1.0",
+      "source_monthly_page_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Outubro",
+      "source_xlsx_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Outubro/anexo-ade-corat-no-78-de-28-09-26.xlsx"
+    },
+    {
+      "file": "agenda-2026-09.json",
+      "ics_file": "agenda-2026-09.ics",
+      "year": 2026,
+      "month": 9,
+      "label": "Setembro/2026",
+      "payload_generated_at": "2026-11-12T17:20:59.876627+00:00",
+      "agenda_year": 2026,
+      "agenda_month": 9,
+      "agenda_label": "Setembro/2026",
+      "competence_year": 2026,
+      "competence_month": 8,
+      "competence_label": "Agosto/2026",
+      "counts": {
+        "tributos": 298,
+        "declaracoes": 11,
+        "adjusted": 1
+      },
+      "schema_version": "1.1.0",
+      "source_monthly_page_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Setembro",
+      "source_xlsx_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Setembro/anexo-ade-corat-no-63-de-26-08-26.xlsx"
+    },
+    {
+      "file": "agenda-2026-08.json",
+      "ics_file": "agenda-2026-08.ics",
+      "year": 2026,
+      "month": 8,
+      "label": "Agosto/2026",
+      "payload_generated_at": "2026-11-12T17:20:57.487089+00:00",
+      "agenda_year": 2026,
+      "agenda_month": 8,
+      "agenda_label": "Agosto/2026",
+      "competence_year": 2026,
+      "competence_month": 7,
+      "competence_label": "Julho/2026",
+      "counts": {
+        "tributos": 297,
+        "declaracoes": 12,
+        "adjusted": 2
+      },
+      "schema_version": "1.1.0",
+      "source_monthly_page_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Agosto",
+      "source_xlsx_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/Agosto/anexo-ade-corat-no-47-de-28-07-26.xlsx"
+    },
+    {
+      "file": "agenda-2026-06.json",
+      "ics_file": "agenda-2026-06.ics",
+      "year": 2026,
+      "month": 6,
+      "label": "Junho/2026",
+      "payload_generated_at": "2026-11-12T17:20:50.549107+00:00",
+      "agenda_year": 2026,
+      "agenda_month": 6,
+      "agenda_label": "Junho/2026",
+      "competence_year": 2026,
+      "competence_month": 5,
+      "competence_label": "Maio/2026",
+      "counts": {
+        "tributos": 297,
+        "declaracoes": 9,
+        "adjusted": 1
+      },
+      "schema_version": "1.1.0",
+      "source_monthly_page_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/junho",
+      "source_xlsx_url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2026/junho/anexo-ade-corat-no-18-de-25-05-26.xlsx"
+    },
     {
       "file": "agenda-2026-05.json",
       "ics_file": "agenda-2026-05.ics",

@@ -10,10 +10,13 @@ on:
         description: "URL da página mensal (sobrescreve a auto-detecção)"
         required: false
         type: string
+      backfill_from:
+        description: "Reprocessar desde este mês (AAAA-MM) até o mês seguinte ao atual"
+        required: false
+        type: string
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   update:
@@ -33,21 +36,42 @@ jobs:
 
       - name: Compute target months
         id: months
+        env:
+          BACKFILL_FROM: ${{ inputs.backfill_from }}
         run: |
           python <<'PY' >> "$GITHUB_OUTPUT"
+          import os
           from datetime import date
+          # A Receita alterna a grafia do mês na URL: jan-jul/2026 em minúsculo
+          # ("/2026/junho") e, desde agosto/2026, com inicial maiúscula ("/2026/Agosto").
+          # Cada mês leva as duas grafias, separadas por "|"; o parser tenta na ordem.
           MONTHS = ["janeiro","fevereiro","marco","abril","maio","junho",
                    "julho","agosto","setembro","outubro","novembro","dezembro"]
+          BASE = "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria"
+
+          def next_month(y, m):
+              return (y + 1, 1) if m == 12 else (y, m + 1)
+
           today = date.today()
-          current = (today.year, today.month)
-          if today.month == 12:
-              nxt = (today.year + 1, 1)
+          end = next_month(today.year, today.month)
+          backfill = os.environ.get("BACKFILL_FROM", "").strip()
+          if backfill:
+              y, m = (int(x) for x in backfill.split("-"))
+              start = (y, m)
           else:
-              nxt = (today.year, today.month + 1)
-          urls = []
-          for y, m in (current, nxt):
-              urls.append(f"https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/{y}/{MONTHS[m-1]}")
-          print(f"urls={','.join(urls)}")
+              start = (today.year, today.month)
+
+          targets = []
+          cur = start
+          while cur <= end:
+              targets.append(cur)
+              cur = next_month(*cur)
+
+          groups = []
+          for y, m in targets:
+              slug = MONTHS[m - 1]
+              groups.append("|".join([f"{BASE}/{y}/{slug.capitalize()}", f"{BASE}/{y}/{slug}"]))
+          print(f"urls={','.join(groups)}")
           PY
 
       - name: Run parser for each month
@@ -61,13 +85,21 @@ jobs:
           else
             URLS="$AUTO_URLS"
           fi
-          IFS=',' read -ra ARR <<< "$URLS"
-          for url in "${ARR[@]}"; do
-            echo "::group::Processando $url"
-            python scripts/update_agenda_from_rfb_page.py --page-url "$url" || {
-              echo "::warning::Falha ao processar $url (provavelmente ainda não publicada)"
-            }
-            echo "::endgroup::"
+          IFS=',' read -ra GROUPS_ARR <<< "$URLS"
+          for group in "${GROUPS_ARR[@]}"; do
+            IFS='|' read -ra CANDIDATES <<< "$group"
+            ok=false
+            for url in "${CANDIDATES[@]}"; do
+              echo "::group::Processando $url"
+              if python scripts/update_agenda_from_rfb_page.py --page-url "$url"; then
+                ok=true
+              fi
+              echo "::endgroup::"
+              if [ "$ok" = true ]; then break; fi
+            done
+            if [ "$ok" != true ]; then
+              echo "::warning::Falha ao processar ${CANDIDATES[0]} (mês não publicado ou sem planilha .xlsx)"
+            fi
           done
 
       - name: Generate ICS files
@@ -87,21 +119,14 @@ jobs:
             echo "Sem alterações em data/"
           fi
 
-      - name: Open pull request
+      - name: Commit and push
         if: steps.diff.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: "chore(data): atualiza agenda tributária"
-          title: "chore(data): atualização automática da agenda tributária"
-          body: |
-            Atualização automática gerada pelo workflow `update-agenda.yml`.
-
-            Diffs em `data/` incluem:
-            - JSONs reprocessados das planilhas oficiais
-            - Arquivos `.ics` regerados
-            - `index.json` atualizado
-
-            Disparado em: ${{ github.event_name }}
-          branch: chore/auto-update-agenda
-          delete-branch: true
-          add-paths: data/
+        run: |
+          # Dados vêm da planilha oficial da Receita: commit direto, sem PR.
+          # O push feito com GITHUB_TOKEN não dispara o pages.yml; o deploy
+          # roda pelo gatilho workflow_run em pages.yml.
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore(data): atualiza agenda tributária"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
